@@ -45,7 +45,8 @@
 }
  .site-header{
      border-bottom:1px solid #e8e8e8;
-     background-color:#fff;
+     background-color:#0d6efd;
+     box-shadow: 0 .125rem .25rem 0 rgba(0, 0, 0, .11);
      opacity:.95;
      position:fixed;
      left:calc((100vw - 100%)/ 2);
@@ -72,7 +73,7 @@
 }
  .site-nav .page-link.current{
      font-weight:bolder;
-     color:#333 
+     color:#ffffff 
 }
  .site-nav .page-link:not(:first-child){
      margin-left:10px 
@@ -128,7 +129,7 @@
      width:33.33% 
 }
  a{
-     color:#414141;
+     color:#ffffff;
      font-weight:100;
      text-decoration:none 
 }
